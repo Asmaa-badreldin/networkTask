@@ -10,4 +10,6 @@
 
 @interface iosViewController : UIViewController
 
+@property NSString *test;
+
 @end
